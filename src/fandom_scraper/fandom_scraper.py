@@ -5,6 +5,7 @@ import re
 from pathlib import Path
 import fandom
 from span_marker import SpanMarkerModel
+from typing import List  # NEW
 
 span_model_name = "tomaarsen/span-marker-bert-base-fewnerd-fine-super"
 sm_model = SpanMarkerModel.from_pretrained(span_model_name).cuda()
@@ -37,14 +38,73 @@ def clean_text(text: str) -> str:
 
     return "\n".join(cleaned_lines)
 
+
+# NEW: helper to split long texts safely
+def chunk_text_by_chars(text: str, max_chars: int = 1000) -> List[str]:
+    """Split text into chunks not longer than max_chars, preserving line boundaries."""
+    if not text:
+        return []
+    lines = [ln for ln in text.splitlines() if ln.strip()]
+    chunks: List[str] = []
+    cur = []
+    cur_len = 0
+    for ln in lines:
+        ln_len = len(ln) + 1
+        if cur_len + ln_len > max_chars and cur:
+            chunks.append("\n".join(cur))
+            cur = [ln]
+            cur_len = ln_len
+        else:
+            cur.append(ln)
+            cur_len += ln_len
+    if cur:
+        chunks.append("\n".join(cur))
+    return chunks
+
+
+# CHANGED: classify_entities now defensive + batching
 def classify_entities(text: str):
-    ents = sm_model.predict(text)
-    suggestions = set()
-    for e in ents:
-        if e["score"] < 0.9:
+    if text is None:
+        return set()
+
+    if not isinstance(text, (str, list)):
+        print(f"[DEBUG] classify_entities received non-string: {type(text)}; coercing to str.")
+        text = str(text)
+
+    if isinstance(text, list):
+        text_list: List[str] = [str(x) for x in text if x is not None]
+    else:
+        text_list = chunk_text_by_chars(text, max_chars=800)
+
+    if not text_list:
+        return set()
+
+    batch_size = 8
+    all_ents = []
+    for i in range(0, len(text_list), batch_size):
+        batch = [str(x).strip() for x in text_list[i : i + batch_size] if x and str(x).strip()]
+        if not batch:
             continue
-        suggestions.add(e["span"].strip())
+        try:
+            preds = sm_model.predict(batch)
+            if isinstance(preds, list) and preds and isinstance(preds[0], list):
+                for p in preds:
+                    all_ents.extend(p)
+            else:
+                all_ents.extend(preds)
+        except Exception as ex:
+            preview = batch[0][:200] if batch else "<empty>"
+            print(f"[ERROR] span-marker.predict failed for batch preview: {preview!r}. Exception: {ex}")
+            continue
+
+    suggestions = set()
+    for e in all_ents:
+        if not isinstance(e, dict):
+            continue
+        if e.get("score", 0.0) >= 0.9 and e.get("span"):
+            suggestions.add(e["span"].strip())
     return suggestions
+
 
 def extract_instructions(text: str):
     """Extract instructions from a text and remove them from the main text."""
@@ -141,6 +201,7 @@ async def fetch_page(title: str, out_path: Path, instruct_path: Path, search_cou
         return None
 
 
+# CHANGED: don’t add True into visited
 async def fetch_worker(q: asyncio.Queue, out_path: Path, instruct_path: Path, visited: set, search_counter: dict, queued: set):
     while True:
         title = await q.get()
@@ -149,8 +210,7 @@ async def fetch_worker(q: asyncio.Queue, out_path: Path, instruct_path: Path, vi
             q.task_done()
             continue
         res = await fetch_page(title, out_path, instruct_path, search_counter, q, queued, visited)
-        if res:
-            visited.add(res)
+        # fetch_page already updates visited if successful
         q.task_done()
 
 
@@ -180,7 +240,6 @@ async def _main(in_path: Path, out_path: Path, instruct_path: Path, n_workers: i
 
     out_path.mkdir(parents=True, exist_ok=True)
     instruct_path.mkdir(parents=True, exist_ok=True)
-
 
     seeds = []
     for file in os.listdir(in_path):
