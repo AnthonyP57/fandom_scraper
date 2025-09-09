@@ -214,11 +214,3 @@ def scrape_fandom(in_path: Path,
     fandom.set_lang(lang)
 
     asyncio.run(_main(in_path, out_path, instruct_path, n_workers))
-
-if __name__ == "__main__":
-
-    in_path = Path("./training_datasets/raw/witcher_json")
-    out_path = Path("./training_datasets/raw/async_fandom")
-    instruct_path = Path("./training_datasets/raw/async_fandom_instruct")
-
-    scrape_fandom(in_path, out_path, instruct_path)
