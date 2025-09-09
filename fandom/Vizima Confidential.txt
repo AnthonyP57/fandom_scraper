@@ -1,0 +1,128 @@
+Vizima Confidential
+Vizima Confidential is basically the framing quest for Chapter II of The Witcher. It spawns and is fed by several other quests in that chapter of the story.
+Walkthrough
+In this quest, with the help of the local private investigator Raymond Maarloeve, Geralt will need to indulge himself in a lot of investigative works to hopefully uncover the real identity of the man behind local Salamandra activities, as well as unearthing the truth regarding the possible collaboration with Salamandra for a total of 6 suspects:
+Kalkstein, an alchemist Geralt has met before in the Outskirts.
+Declan Leuvaarden, a rich merchant from Nilfgaard.
+Ramsmeat, the local kingpin of the underworld.
+Thaler, a fence who also is the living embodiment of foul language.
+Vincent Meis, the captain of the City Guard.
+Golan Vivaldi, a dwarven banker.
+Early investigations
+This quest starts after Geralt decided to visit a local private investigator recommended by Siegfried, Raymond Maarloeve. After all, the witcher just barely regained his freedom in an unfamiliar city, with the only suspect being the head of the local law enforcement. He could definitely use an experienced helping hand.
+From the detective Geralt learns that the city guard recently arrested a man wearing Salamander pins, the so-called Crown Witness. Needless to say, an interrogation could prove extremely valuable to the investigation effort. Now the witcher just needs to find out where the city guard is holding the prisoner.
+Following the quest The Crown Witness to its completion, the witcher now has two new leads: Ramsmeat and Kalkstein.
+Reporting back what he just found out, Geralt follows Raymond's advice and sets out to gain Kalkstein's trust. Geralt can also investigate on Ramsmeat and with proper preparation (having beforhand found the 3 clues) deduce his innocence immediately after the conversation with Raymond. After getting the information from the two books requested by Kalkstein during A Mysterious Tower, Geralt figures that the alchemist must trust him enough now. Time to report back again.
+Yet this time the witcher finds Raymond under assault by some of Salamandra's best assassins. Geralt intervenes in a heartbeat and saves the detective's life, who then decides to lay low for a bit in light of the attack. Before leaving, he leaves Geralt with a List of suspects, giving our hero three new people to question: Leuvaarden, Thaler and Vivaldi.
+After the necessary questioning is done, a messenger boy approaches Geralt, informing him that Raymond would like the witcher to come for a meeting.
+It is at this point that the possibilities of the quest really start to emerge - and things get really interesting, too.
+Learning the truth
+With Raymond back into the picture, two parallel but not mutually exclusive directions lie ahead of the witcher:
+The first: follow the detective's advice like before and attends this meeting, starting the quest Anatomy of a Crime.
+The second: Geralt may have realized (after clearing two random suspects) that maybe it's not the best idea to entrust the direction of the entire investigation on Raymond's ability and/or intention alone, and therefore What Lies Beneath has started. Now the chance to start A Gravedigger's Gratitude has come as well.
+But regardless of what Geralt chose to do next, what really matters is that on either path the witcher learns critical knowledge that topples the entire investigation so far:
+Major Spoiler: The detective coming out of his lay-low period is not the same one as before, but Azar Javed himself!
+For simplicity and accuracy, this critical knowledge will be referred to as the "Grand Truth" from this point.
+As the de facto objective of this stage of the investigation, it is best to learn the "Grand Truth" only after clearing most of the suspects (all but Kalkstein) in order to not lose xp. Currently there are 3 ways of achieving this:
+In the cemetery crypt during the quest A Gravedigger's Gratitude
+At the autopsy in the quest Anatomy of a Crime
+Cleared 5 of the suspects by any means(Must include Ramsmeat, Thaler, Vincent Meis and Golan Vivaldi)
+If Geralt managed to learn the "Grand Truth" by any means, our hero will have to find a way to lure Azar out of his own territory into a trap. This involves the quest What Lies Beneath, where ironically, the witcher finds himself an ally out of the No.1 suspect: Kalkstein. The two agreed to lure Azar to the tower in the swamp for the final confrontation.
+If Geralt didn't realized he's been duped until it's too late, which means the autopsy in Anatomy of a Crime ended up misguided and as a result the witcher has killed Ramsmeat, then Geralt will be informed that in order to get to Kalkstein, he will have to lure the alchemist to the tower in the swamp.
+Either way, the quest enters its final stage: the opening of the tower.
+Opening the tower
+With the investigation finished, Geralt must now gain access to the tower in the swamp in order to lure the person he believes to be the culprit behind Salamandra activities around Vizima. This calls for the completion of A Mysterious Tower.
+After the tower is open to the world once again, Geralt meets with the detective at the foot of the tower. Depending on whether did he learn the "Grand Truth", the witcher emerges either as the intellectual superior who sees through his opponent's every scheme, or the utter fool who has been duped to the very end.
+As the quest comes to an end, Chapter II of the story concludes as well.
+Notes
+Depending on the choice made in Strangers in the Night, Coleman could be killed as soon as Geralt enters the Hairy Bear Inn after he has spoken to Raymond. His death could proven troublesome in the investigation process, so completes everything exclusive to Coleman before visiting Raymond if you find yourself having to deal with this dilemma. This includes:
+Completing Hot Potato side quest.
+A clue for Ramsmeat.
+A side quest, The Rat, which provides a chance at clearing Vincent Meis of suspicion.
+Since there are 3 ways to learn the "Grand Truth", you can afford to miss the chance once or twice. However, Geralt is duped for good if he really killed Ramsmeat.
+There is a rare bug that the quest can get stuck if you complete A Gravedigger's Gratitude before attending the meeting with Raymond, the one he sent a messenger boy to inform you about. This does not happen to everyone, but if it does, mod seems to be the only way to progress the quest.
+Both the Swamp and Temple Quarter remain accessible in Chapter III, as do most of the characters, so you can still finish some of the quests if you rushed through Chapter II too quickly.
+Phases
+The Investigation Begins
+I'm beginning an investigation with the help of the private eye. the goal is to find someone who works for Azar Javed and trace the Salamander boss this way. I must find someone who works for Azar Javed and trace the Salamander boss through him.
+Money for the Detective
+This only happens if Geralt refuses to mention Azar Javed to Raymond.
+To move the investigation forward, I have to get 100 orens for Raymond. I must get 100 orens for Raymond (−100 )
+Vincent
+I have my first clues about Salamandra. The City Guard is holding an important witness I need to speak to... I should have a word with the jailor Jethro. I must question the witness being held by the city guards. I should talk to Jethro. (500 XP)
+The Witness
+It seems that the Salamanders have a secret agent who set a trap for me. I must find out who he is. First I should interrogate the prisoner being held by the city guards. I must interrogate the witness.
+Conclusion
+I've done some hell of investigator's work. I began uncovering Vincent and I interrogated the witness at the hospital. I found new traces leading to Ramsmeat and Kalkstein. Time to get back to Raymond and summarize our discoveries. It's time to get back to Raymond and conclude our discoveries. (500 XP)
+The Alchemist's Trust
+There is strong evidence against Ramsmeat and the alchemist Kalkstein. Raymond will take care of the former. I must gain the alchemist's trust. In order to do so, I have to get an important assignment from him. I must go to Kalkstein the alchemist and gain his trust.
+The Alchemist's Trust
+I have strong evidence against Ramsmeat and Kalkstein the alchemist. Raymond will deal with the thug and I must gain the alchemist's trust. Best to do that by getting an important assignment from him. I must gain the trust of Kalkstein the alchemist move the investigation forward.
+Conversation with Raymond
+Kalkstein trusts me already. It's time to talk to Raymond and decide how to use this trust. It's time to talk to Raymond about Kalkstein.
+Assault
+A group of Salamander gang members attacked the private investigator! Luckily, I managed to hold them back. I'll see how Raymond is doing. I want to see how Raymond is doing.
+The Suspects
+The private investigator decided to lay low. He gave me a list of suspects - I should uncover them as soon as possible, while Raymond attracts the Salamander's attention. I must cross-question all the suspects. I'll start with Ramsmeat. ( + 500 XP)
+Ramsmeat / Thaler / Declan Leuvaarden
+Ramsmeat:
+I spoke with Ramsmeat, but his confession alone is insufficient. To get a full picture I need to interrogate other suspects. I should question Thaler the fence.
+Thaler:
+I spoke with Thaler, but his confession alone is insufficient. To get a full picture I need to interrogate other suspects. I should question the merchant Leuvaarden.
+Declan Leuvaarden:
+I spoke with Declan Leuvaarden, but his confession alone is insufficient. To get a full picture I need to interrogate other suspects. I should question Ramsmeat, the boss of the thugs.
+Further Interrogations
+I've heard the stories of Leuvaarden and Thaler. Now I need to interrogate the thug to get a full picture. I need to question Ramsmeat.
+I've heard the stories of Ramsmeat and Leuvaarden. Now I need to interrogate the fence to get a full picture. I need to question Thaler.
+I've heard the stories of Ramsmeat and Thaler. Now I need to interrogate the merchant to get a full picture. I need to question the merchant Leuvaarden.
+the resolute boy, Raymond's messenger
+Contact
+I managed to learn some interesting things about our suspects. Now I must wait for Raymond to contact me. I must wait for Raymond to contact me. (500 XP)
+The Meeting
+Raymond sent a messenger - he wants to meet me as he has gained some new information. I wonder how he will react to my discoveries. I must meet up with Raymond.
+Autopsy or Bluff
+Autopsy path:
+Autopsy
+Raymond was not interested in my discoveries - small wonder, there is a newer clue. To move this investigation forward, I must perform an autopsy. The body is probably in the gravedigger's possession and Shani will help me with the autopsy. I cannot move the investigation forward until I finish the autopsy.
+Closer and Closer
+The autopsy explained a lot of things. I am very close now. Time to go to Raymond's house. Time to go to Raymond's house.
+Autopsy Results / Azar Javed + Subterfuge
+Wrong conclusion
+Autopsy Results
+Autopsy implicated Kalkstein: I told Raymond about what we found during the autopsy. The evidence points to Kalkstein. The detective needs some time to analyze the evidence.
+Autopsy implicated Ramsmeat: I told Raymond about what we found during the autopsy. The evidence points to Ramsmeat. The detective needs some time to analyze the evidence.
+Right conclusion
+Azar Javed
+Autopsy implicated Azar: As a result of the autopsy, I learned that Azar Javed impersonates Raymond. I will go to him, pretend the autopsy proved nothing and see what happens. I will go to Azar posing as the private eye. I'll pretend the autopsy proved nothing and see what happens.
+Subterfuge
+I told "Raymond" that I discovered nothing during the autopsy. I will not tell him that he is Azar. I must find a way to lure Azar into a trap.
+No autopsy is necessary:
+Bluff
+There is no need to perform the autopsy. I know that Azar Javed is pretending to be Raymond. I will go to him, pretend the autopsy proved nothing and see what happens. I'll try to lure Azar, posing as the private eye, into a trap.
+Subterfuge
+I told "Raymond" that I discovered nothing during the autopsy. I will not tell him that he is Azar. I must find a way to lure Azar into a trap.
+Duped or Not
+Geralt is in the dark:
+The Ramsmeat Contract
+I promised Raymond to eliminate the boss of the Salamander's armed forces - Ramsmeat. I have to prepare well, as he seems to be a tough opponent. I have to kill Ramsmeat.
+Ramsmeat is Dead
+I killed Ramsmeat. Time to report to Raymond. Time to report to Raymond.
+The Tower
+I told Raymond that I had killed Ramsmeat. He is going to wait for me near the tower. I must lure Kalkstein to the tower in the swamp.
+Opening the Tower
+Raymond gave me a Sephirah which forms a part of the key to the tower. All that remains is to take what's inside the tower and we'll get that bastard Kalkstein once and for all. I have to open the tower.
+The Secret Within
+I have found the magic treatise that Kalkstein desired so badly. For years, it lay safely hidden away in the tower in the swamp. Azar is in for an unpleasant surprise. I must prepare to face Azar Javed.
+The Truth Revealed
+It's unbelievable. Azar Javed played me for a fool all this time. He killed Raymond and impersonated him. How could I've been so stupid? Azar Javed impersonated Raymond. (1500 XP)
+Geralt knows the deal:
+A Trap
+Azar, who impersonated Raymond, is behind all this. I must lure him into a trap. I will tell "Raymond" that I killed Ramsmeat.
+The Tower
+I told Raymond that I had killed Ramsmeat. He is going to wait for me near the tower. I must prepare to face Azar.
+Fake No More
+Everything is going smoothly. The fake private investigator gave me his Sephirah. Now I can stop pretending. I must get inside the tower to defeat the false Raymond.
+The Secret Within
+I have found the magic treatise that Azar desired so badly. For years, it lay safely hidden away in the tower in the swamp. I must prepare to face Azar Javed.
+Azar's Escape
+I uncovered Azar and his devious trick perfectly. It's a shame that he managed to get away. But, as king Desmond used to say: "there is luck in leisure and if you're born to hang, you won't drown." I uncovered Azar's ploy, but he managed to get away. (2500 XP)

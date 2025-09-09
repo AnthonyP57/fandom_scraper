@@ -1,0 +1,95 @@
+The Battle of Kaer Morhen
+The Battle of Kaer Morhen is a main quest in The Witcher 3: Wild Hunt.
+Important: Once you start the council, the secondary quest Berengar's Blade will fail if not already completed.
+Walkthrough
+The quest starts immediately after The Isle of Mists, after you are greeted by Vesemir, Yennefer and Triss. When you finish your conversations with them, the two sorceresses will walk towards the keep, but following them is entirely optional and you are free to roam until you join them for the council. However, fast travelling is disabled, so you can only do some side quests in the Kaer Morhen valley and would have to do so on foot, as calling Roach is also disabled.
+If you've gathered all possible allies, which means getting all green marks on the "Brothers in Arms" quests and only Letho doesn't count towards this, an extra 1,000 will be awarded. This should include completing Now or Never, even though Triss will always join - if her questline isn't completed, she will explicitly say that it was Yennefer who invited her and Geralt should thank her.
+On your way to the council, you can have short conversations with every ally except the sorceresses. Most of them are of course optional recruits, but here are all of them in a linear fashion of appearance:
+Hjalmar is seen first and will have Folan and/or Vigi the Loon with him, if you saved them during The Lord of Undvik.
+Zoltan Chivay is providing armorer services. He's only an Amateur armorer though, so that's mostly useful just for repairs and selling junk equipment you may've picked up.
+Ermion can be seen together with Vesemir, opening cracks in the ground. If you wait for them to finish, they can be interacted with for some extra dialogue.
+Lambert is trying to repair the ballista in the middle courtyard and Eskel is meditating just a bit further ahead.
+Vernon Roche and Ves are training in the inner courtyard.
+Letho, if alive and recruited, can make his appearance in two different ways. If Roche and Ves are there, he'll appear while you're talking to them, otherwise Lambert and Eskel will be in their spot as Letho walks around. In both cases, your other allies will be furious that you brought him, but it's just dialogue with no real consequences.
+Ciri can also be talked to, next to the pendulum where you also first see her at the start of the game.
+Keira Metz can be found just inside the keep and you can use The Eye of Nehaleni to try and dispell her illusionary dresser for a comic reaction. After talking to her, you can have another, regular conversation with her, allowing to use her as an alchemist.
+Note: If you do open Keira's alchemist inventory, a bug may occur afterwards where the conversation options don't show. They are simply invisible and you can use the arrow keys and then Enter to exit the conversation.
+When you're ready, approach the main hall in the keep to begin the council.
+The council
+Once you begin, after some introductory dialogue you'll have to make a couple of choices. First is how to use the laboratory:
+Make more potions and you'll later receive 50, Superior Swallow, Thunderbolt and a Lesser Perun runestone
+Make witcher's traps, in which case some of them will be spread in the courtyard and explode as enemies tread on them
+Then how to use the workshop tools:
+Patch up the walls, which will close Savolla's breach and you'll face fewer enemies during the battle
+Clear the armory and you'll later receive the Rose of Shaerrawed silver sword
+Note: If you already have a strong silver sword, then you obviously don't need a new one, especially since the one you can get here is of random level and may be disappointing. Naturally, enemies will also fall easier and thus you can take the more profitable potions option without much worry.
+You will have the option to change those decisions before you move on to the next topic, then everyone else explains what they bring into the battle before Vesemir summarizes everything, ending the meeting. (500) In the next cutscene, Lambert will give you any previously chosen "rewards" and goes to prepare your horses.
+Important: This is now your last opportunity to prepare for the battle and the next two quests as well. Remember that you are locked into a string of quests and even after this battle will have very limited access to everything. Take any repair kits and other equipment you'd like to use from your storage - you won't be able to do that for a long time afterwards.
+Talk to Ciri if you wish (she can be seen sullenly leaning against a table annoyed at being told to stay inside (Geralt's responses do not make a difference), but she ultimately ends the conversation with a warm hug for Geralt before beginning to do some sword exercises. You can also loot some new crates with herbs and one with a formula and a diagram (the latter being useless right now as Zoltan is inaccessible), but more importantly two barrels will have ready-made White Gull, allowing to make more alchemy products at the last minute. There is also an armor table and grindstone for buffing armor and weapons (but be sure to visit them after talking to Ciri - see Bugs, below).
+When you're ready, head out to join Lambert and as you exit the keep, a cutscene starts and the battle will begin. Note that none of the enemies ahead will give , so there's no point in trying to farm them. Also, take note that manual saving is disabled once Geralt approaches the doorway and for the duration of the battle (though automatic checkpoint saving still takes place)
+The hunting party
+When it begins, you'll be in the woods with Lambert and if he's present, Letho too. You have to close 3 portals through which the Wild Hunt soldiers are teleporting in, as well as defeat the handful of enemies near each portal. If you paid attention you will know you have 2 options - throw Dimeritium bombs or cast the Yrden sign on them.
+The best approach before engaging the enemies is to walk into the portals and cast Yrden, saving the bombs for later and preventing more enemies from teleporting in. It's not a big deal if you lose the invisibility before that, but don't walk too close to the hounds if you want to avoid it happening. If you close the first two portals and kill the enemies quickly enough, there is time to loot the bodies for some uncommon goods (this opportunity is not available after the closing the last portal, however).
+When all three portals are closed you receive 200 and then follows a cutscene with Imlerith appearing and the next phase begins. (500)
+Note: If you close the last portal before starting to fight (particularly via Yrden and while still invisible), you might jump directly into the next quest phase and this fails the "Kill the Wild Hunt warriors" objective for that portal. This is a way to skip one fight, but it also gives a red mark in the objectives log.
+Ciri helping Triss
+You'll now be playing as Ciri and will have to help Triss (before this, however, there will be a timed response moment with Vesemir, but it doesn't seem to matter what response is chosen). Ciri has the option to use a magic amulet in order to direct Triss' fireballs; take care though as they will damage Ciri as well, so blink away once you use the amulet. Ciri can now also use her Charge attack, making her charge through her enemies, dealing high damage and stunning them. The longer you hold the key the higher the damage she will deal. Follow the wall of the keep to reach Triss and after you kill all enemies around her you will return to Geralt and his team.
+Return to the keep
+After the cutscenes, Geralt will be on Roach now and will have to return to the keep as soon as possible. The raining fireballs can actually hurt you, or even one-shot kill with a direct hit (despite Lambert's comments), but don't worry about them and simply gallop. (This is an automatically saved checkpoint if Geralt is unlucky in his timing). After reaching the keep, you will have to close the main gate. If Ermion has been recruited, you will have gas deposits you can ignite with Igni. Kill the immediate group of enemies if you wish (you may have no choice because climbing is disabled when Geralt is in combat mode), but don't bother with any more as they will spawn infinitely from the gate. Once you are able to, climb the wall (or follow the marked path if Geralt will not exit combat mode, a known bug), reach the lever, and pull it to close the gate. If you stay and attract more enemies, they'll prevent you from climbing the shortcut and you'll have to run a long way around.
+Saving Lambert (dependent)
+Lambert will be surrounded by enemies and need help. If Keira was recruited, she will automatically intervene and save him, but otherwise you have to run to his aid. If that's the case, do not run the walls, but drop down as quickly as you can and kill the enemies before they can kill him.
+Retreat
+With Yennefer's spell waning and the White Frost advancing, Geralt has to retreat to the middle courtyard to get shelter. Run for it and don't try to loot corpses or the frost will kill you. After you reach the first gate (500), kill all enemies you see and move for the second gate, where unfortunately Eskel will be in trouble and unable to open it. While the issue is being resolved, you have to help Triss instead. Kill enough enemies near her to trigger the next cutscene. There is a sense of urgency here, but nothing happens if you take your time, so don't worry.
+Helping Eskel
+Eskel is fighting Caranthir and it's not going well, so Ciri jumps in to help. Eventually Caranthir retreats and you will be playing as Ciri again. Help Eskel kill the rest of the Wild Hunt around and then run to open the gate. Keep killing everyone you encounter if you must and then use the wheel to open the gate. It can be tricky to interact with, but don't panic - the objective marker isn't wrong. When you do, you'll be back to Geralt.
+Closing the Portals
+This part is exceptionally easy with many allies around and there is no time limit or penalties if you tarry.
+Like in the woods, you have to use Dimeritium bombs or Yrden to close the portals, but this time you can pick up more bombs from crates. You will have the optional objective to pick up more Dimeritium bombs if you are all out. Note: In older versions of the game, if you already created enhanced or superior versions of the bombs, then these basic ones would replace them and you'd have to remake them later.
+When you're done with the portals, Triss will request aid and the battle will end once you get close to her.
+All is lost... or is it?
+The Wild Hunt breaches in, freezing almost everyone including Geralt. Only Vesemir manages to protect Ciri for a short spell, but he too is eventually restrained by Imlerith.
+Eredin will finally appear and convinces Ciri to give up. When all seems lost, Vesemir stabs Imlerith with a dagger in a desperate last effort, but only gets himself killed for it. This causes Ciri to give in to despair and let her power run wild with a deadly scream that decimates the Wild Hunt. Realizing the battle is lost, Caranthir creates a portal for the surviving warriors to retreat through. Eredin, hellbent on capturing Ciri, tries to grab her but is almost consumed by her burst of power until he is literally dragged into the portal by Caranthir. Ciri's out of control powers now endanger her own allies, but fortunately Avallac'h appears and manages to incapacitate her. (1,000 )
+Geralt and the rest will thaw out and after the sad reality hits him, he will have a short talk with Ciri. You can pick whichever dialogue options you like and then the funeral for Vesemir and possibly Lambert begins. During it, Ciri will decide she has been running away for too long and takes Vesemir's wolf medalion before the quest ends and Blood on the Battlefield starts.
+Journal entry
+Geralt and Ciri had no choice but to teleport away from the Isle of Mists when the Wild Hunt threatened to attack. Since Eredin could trace where Ciri traveled to with her abilities, the duo did not so much flee the Hunt as buy a few precious minutes of time. Ciri took Geralt home, to Kaer Morhen, where the group of friends the witcher had gathered waited to defend Ciri to their last breath. They spared a few seconds for a tearful reunion - then began preparations to repel the Hunt's attack.
+The friends conferred and established a defense strategy. There was no time to lose. As soon as they finished, the weather changed and snow began to fall. The Wild Hunt appeared above Kaer Morhen and its spectral warriors galloped out of the sky towards the fortress.
+The defenders of Kaer Morhen did what they could to hold back their attackers, but the enemy's strength was overwhelming. The Wild Hunt had made it to the very walls of Kaer Morhen.
+Warrior after warrior fell to our heroes' blows, but others immediately took their place. The defenders fell back beyond the inner gates of the fortress - and so began the last phase of the battle.
+It was a dark hour for the defenders of Kaer Morhen. The generals of the Hunt had entered the fray personally. Vesemir had died by Imlerith's hand, and it seemed all of the witcher's friends would soon share his fate. The defenders' lives were hanging by a thread, when suddenly Ciri's magic talent revealed its full force. In an uncontrolled outburst of rage she pummeled both allies and enemies alike with a blast of pure Power. The Hunt's forces were nearly wiped out, leaving them no choice but to retreat. Only our valiant defenders, exhausted, wounded, but still alive, remained on the field of battle.
+The Battle of Kaer Morhen was over. Those who survived buried Vesemir, but had little time for mourning. The danger had only been thwarted temporarily, and they needed to prepare a new plan for saving Ciri.
+Objectives
+Enter Kaer Morhen keep and begin the council. (500)
+Exit the keep and join Lambert when you're ready to face the Wild Hunt.
+Use dimeritium bombs or the Yrden Sign to close all the Hunt's portals in the woods around Kaer Morhen. (3/3) (200 + 500)
+Kill the Wild Hunt warriors near the left portal in the forest.
+Kill the Wild Hunt warriors near the center portal in the forest.
+Kill the Wild Hunt warriors near the right portal in the forest.
+Run to Triss's aid on the battlements.
+Defeat the warriors threatening Triss.
+Return to Kaer Morhen.
+Close the main gate.
+Retreat to the middle courtyard. (500)
+Defeat your opponents and retreat behind the main gate.
+Get to Triss.
+Help Triss fight the Hunt's warriors.
+Defeat Caranthir's warriors.
+Open the gate to Kaer Morhen's inner courtyard.
+Use dimeritium bombs or the Yrden Sign to close the Hunt's portals and stop their attack on Kaer Morhen. (2/2)
+(Optional) Equip yourself with dimeritium bombs from Vesemir's supplies.
+Help Triss fight the Wild Hunt by the gate to the inner courtyard. (1.000)
+Bugs
+Sometimes trying to buy from Keira will result in getting stuck and not being able to exit out of the store. However, the dialogue menu is still accessible despite not being able to be seen. Use the arrow keys and enter to exit the store.
+Speaking to Ciri after having discussed your plans with the others will remove your weapons enhancement buff (if active).
+While controlling Ciri, there's a small chance for you to trigger Geralt's pre-battle conversations with other characters by interacting with them. Instead of hearing their usual responses to Ciri, Geralt's frozen default model will appear in her place until you leave the conversation.
+While hunting in the woods, if you close the last portal before starting to fight (particularly via Yrden and while still invisible), you might jump directly into the next quest phase and this fails the "Kill the While Hunt warriors" objective for that portal. This is a way to skip one fight, but it also gives a red mark in the objectives log. Loading the auto-save for that point in time appears to fix the issue.
+Scripted passive dialogue lines during the battle may trigger for certain events and/or out of sync, even if you've made decisions to counter them. For example, Eskel may say that enemies are coming in through Savolla's breach even if was patched, or Vesemir crying for Lambert to "stay with us" after Keira has already saved him.
+While fast travelling and calling Roach is disabled, her horse icon may appear underground near the main entrance.
+During the cutscene prior to the start of the main battle, Ciri, Yennifer and Triss will be shown wearing their default outfits, even if their alternate appearances are active. And also during the final cutscene at the end of the battle, Ciri will be in her white outfit as well.
+During the sequence where the gate has to be closed, Geralt may not be able to exit combat mode. While in combat mode, he cannot climb. The only workaround when this happens is to take the long way around the walls to get to the gate controls.
+Notes
+If you choose to patch up the walls, this does indeed alter the map, and after the quest you can no longer leave the fortress through Lambert's favorite shortcut.
+Starting with this quest, a chest behind the column inside and to the north of the keep entrance (behind Keira's dresser) will start "replenishing" with new loot. It is unclear exactly how often and up until when, but it does so at least on irregular visits and likely until the main story completes. It persistently spawns new random diagrams, both crafting and alchemy formulae. Before this quest, the chest still glows with witcher senses when revisited after the initial loot, but then turns empty when you're near it.
+In early versions of the game, it was possible to trigger and automatically have two more mission objectives during the woods segment of the battle. This was due to deleted content where you could explore an Arachas' cave mentioned by Lambert and then wait for him to lure the monster out. A video with this and an extra trap to be setup can be seen below.
+The traps can actually still be seen near the second portal while hunting in the woods, and can even be interacted with, but they don't work.
+An optional extra conversation with Vesemir was also cut from the game (video below), likely because it very strongly foreshadows his death in the end.
+The 2014 "Sword of Destiny" trailer for the game showed Geralt fighting Caranthir, not Eskel.
