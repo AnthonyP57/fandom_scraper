@@ -1,6 +1,6 @@
 [project]
 name = "fandom-scraper"
-version = "0.1.0"
+version = "0.1.2"
 description = "A simple AI (span-marker) powered fandom scraper"
 readme = "README.md"
 authors = [

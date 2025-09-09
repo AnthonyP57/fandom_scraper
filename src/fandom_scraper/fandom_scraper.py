@@ -174,8 +174,13 @@ async def classify_worker(out_path: Path, visited: set, q: asyncio.Queue, done: 
 
 async def _main(in_path: Path, out_path: Path, instruct_path: Path, n_workers: int = 50):
 
+    for p in [in_path, out_path, instruct_path]:
+        if not isinstance(p, Path):
+            p = Path(p)
+
     out_path.mkdir(parents=True, exist_ok=True)
     instruct_path.mkdir(parents=True, exist_ok=True)
+
 
     seeds = []
     for file in os.listdir(in_path):
