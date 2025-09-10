@@ -6,8 +6,24 @@ from pathlib import Path
 import fandom
 from span_marker import SpanMarkerModel
 
-span_model_name = "tomaarsen/span-marker-bert-base-fewnerd-fine-super"
-sm_model = SpanMarkerModel.from_pretrained(span_model_name).cuda()
+sm_model = None
+
+def scrape_fandom(in_path: Path,
+                  out_path: Path,
+                  instruct_path: Path,
+                  n_workers: int = 50,
+                  wiki: str = "Witcher",
+                  lang: str = "en"):
+    
+    global sm_model
+    
+    span_model_name = "tomaarsen/span-marker-bert-base-fewnerd-fine-super"
+    sm_model = SpanMarkerModel.from_pretrained(span_model_name).cuda()
+
+    fandom.set_wiki(wiki)
+    fandom.set_lang(lang)
+
+    asyncio.run(_main(in_path, out_path, instruct_path, n_workers))
 
 def clean_text(text: str) -> str:
     """Clean text until the first unwanted section appears, then stop."""
@@ -209,16 +225,3 @@ async def _main(in_path: Path, out_path: Path, instruct_path: Path, n_workers: i
     classifier = asyncio.create_task(classify_worker(out_path, visited, q, done, queued))
 
     await asyncio.gather(*fetchers, classifier)
-
-
-def scrape_fandom(in_path: Path,
-                  out_path: Path,
-                  instruct_path: Path,
-                  n_workers: int = 50,
-                  wiki: str = "Witcher",
-                  lang: str = "en"):
-
-    fandom.set_wiki(wiki)
-    fandom.set_lang(lang)
-
-    asyncio.run(_main(in_path, out_path, instruct_path, n_workers))
