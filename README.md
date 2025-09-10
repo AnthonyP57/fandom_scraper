@@ -29,10 +29,21 @@ The usage is very simple, the function requires path with so-called seeds to sta
 and later uses sugesions provided by an Named Entity Recognition (NER) model. The script saves the scraped pages and instructions into respective folders.
 ```python
 from fandom_scraper import scrape_fandom
-in_path = Path("./examples/witcher_json")
-out_path = Path("./examples/async_fandom")
-instruct_path = Path("./examples/async_fandom_instruct")
+in_path = "./examples/witcher_json"
+out_path = "./examples/async_fandom"
+instruct_path = "./examples/async_fandom_instruct"
 
-scrape_fandom(in_path, out_path, instruct_path)
+wiki = "Witcher"
+lang = "en"
+
+scrape_fandom(in_path=in_path,
+              out_path=out_path,
+              instruct_path=instruct_path,
+              n_workers=50, # n async page "fetchers"
+              wiki=wiki,
+              lang=lang)
 ```
 See `examples/async_fandom/` and `examples/async_fandom_instruct/` for more examples.
+
+## Effectiveness
+For the Witcher fandom, the scraper managed to gather 7506 pages, 1494 instructions. All in all around 40MiB of pure text in around 4 hours.

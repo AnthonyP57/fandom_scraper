@@ -175,6 +175,13 @@ async def classify_worker(out_path: Path, visited: set, q: asyncio.Queue, done: 
 
 async def _main(in_path: Path, out_path: Path, instruct_path: Path, n_workers: int = 50):
 
+    if not isinstance(in_path, Path) and isinstance(in_path, str):
+        in_path = Path(in_path)
+    if not isinstance(out_path, Path) and isinstance(out_path, str):
+        out_path = Path(out_path)
+    if not isinstance(instruct_path, Path) and isinstance(instruct_path, str):
+        instruct_path = Path(instruct_path)
+    
     out_path.mkdir(parents=True, exist_ok=True)
     instruct_path.mkdir(parents=True, exist_ok=True)
 
